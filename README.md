@@ -11,9 +11,7 @@
   </a>
 </p>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=6B8AFD&center=true&vCenter=true&width=900&lines=Building+the+infrastructure+for+verifiable+contribution;No+likes.+No+comments.+No+follower+counts.;Every+interaction+is+a+commitment.;Product+Architecture+•+Infrastructure+•+Security"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=6B8AFD&center=true&vCenter=true&width=900&lines=Building+the+infrastructure+for+verifiable+contribution;No+likes.+No+comments.+No+follower+counts.;Every+interaction+is+a+commitment.;Product+Architecture+%7C+Infrastructure+%7C+Security" />
 
 </div>
 
