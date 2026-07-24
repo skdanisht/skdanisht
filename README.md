@@ -5,15 +5,15 @@
 <br/>
 
 <p align="center">
+  <a href="mailto:skdanisht@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/ffffff" width="34">
+  </a>
 
-<a href="mailto:skdanisht@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white">
-</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/skdanisht">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-
+  <a href="https://linkedin.com/in/skdanisht">
+    <img src="https://cdn.simpleicons.org/linkedin/ffffff" width="34">
+  </a>
 </p>
 
 <br/><br/>
