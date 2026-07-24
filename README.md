@@ -26,7 +26,7 @@
 > No likes, no comments, no follower counts. Every interaction is a commitment,
 > a question, or evidence pinned to an exact point in someone's work.
 
-*(Link goes here once Inventza has a public GitHub org/repo — left as plain text for now.)*
+🔗 **Live Preview:** [inventza.vercel.app](https://inventza.vercel.app)
 
 I own product architecture, engineering, infrastructure, and security. I designed and built:
 
@@ -68,31 +68,21 @@ Plus a **contract-first service architecture** built to scale from solo founder 
 ## <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%2358a6ff&height=22" valign="middle" /> GitHub, Live
 
 <div align="center">
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=skdanisht&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&count_private=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=skdanisht&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&count_private=true" />
+<img height="165" src="https://raw.githubusercontent.com/skdanisht/skdanisht/main/profile/stats.svg" />
+<img height="165" src="https://raw.githubusercontent.com/skdanisht/skdanisht/main/profile/top-langs.svg" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=skdanisht&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com/?user=skdanisht&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 <div align="center">
 
 ### <img src="https://api.iconify.design/tabler:activity.svg?color=%2358a6ff&height=20" valign="middle" /> Contribution Snake
 
-<img src="https://raw.githubusercontent.com/skdanisht/skdanisht/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/skdanisht/skdanisht/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
-
-> **Setup note:** the snake graph renders once you add the `Platane/snk` GitHub Action to a repo
-> named exactly `skdanisht/skdanisht` (your profile repo). Two steps:
-> 1. Create `.github/workflows/snake.yml` in that repo with the [Platane/snk action](https://github.com/Platane/snk).
-> 2. It commits an SVG to an `output` branch on a schedule — the image link above already points there.
->
-> Same goes for the stats cards: swap `skdanisht` in every URL above for your **actual GitHub username** —
-> right now it's a placeholder guessed from your LinkedIn handle.
-
-<br/>
 
 ## <img src="https://api.iconify.design/tabler:trophy.svg?color=%2358a6ff&height=22" valign="middle" /> Trophy Case
 
