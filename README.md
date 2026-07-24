@@ -68,8 +68,8 @@ Plus a **contract-first service architecture** built to scale from solo founder 
 ## <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%2358a6ff&height=22" valign="middle" /> GitHub, Live
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=skdanisht&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skdanisht&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=skdanisht&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=skdanisht&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&count_private=true" />
 </div>
 
 <div align="center">
