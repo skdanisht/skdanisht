@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=2C5364&center=true&vCenter=true&width=650&lines=Building+the+infrastructure+for+verifiable+contribution;No+likes.+No+comments.+No+follower+counts.;Every+interaction+is+a+commitment.;Product+Architecture+%7C+Infra+%7C+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=2C5364&center=true&vCenter=true&width=1000&lines=Building+the+infrastructure+for+verifiable+contribution;No+likes.+No+comments.+No+follower+counts.;Every+interaction+is+a+commitment.;Product+Architecture+%7C+Infrastructure+%7C+Security" alt="Typing SVG" />
 
 </div>
 
@@ -81,7 +81,7 @@ Plus a **contract-first service architecture** built to scale from solo founder 
 ## <img src="https://api.iconify.design/tabler:trophy.svg?color=%2358a6ff&height=22" valign="middle" /> Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=skdanisht&theme=tokyonight&row=1&column=6" />
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=skdanisht&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 <br/>
