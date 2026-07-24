@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sk%20Danish%20Tanvir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Co-Founder%20%26%20CTO,%20Inventza&descAlignY=58&descSize=18" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sk%20Danish%20Tanvir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Co-Founder%20and%20CTO,%20Inventza&descAlignY=58&descSize=18" alt="header banner" />
 
 <br/>
 
@@ -81,7 +81,7 @@ Plus a **contract-first service architecture** built to scale from solo founder 
 ## <img src="https://api.iconify.design/tabler:trophy.svg?color=%2358a6ff&height=22" valign="middle" /> Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=skdanisht&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=skdanisht&theme=tokyonight&row=1&column=6" />
 </div>
 
 <br/>
