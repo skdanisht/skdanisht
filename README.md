@@ -11,10 +11,7 @@
   </a>
 </p>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=6B8AFD&center=true&vCenter=true&width=900&lines=Building+the+infrastructure+for+verifiable+contribution;No+likes.+No+comments.+No+follower+counts.;Every+interaction+is+a+commitment.;Product+Architecture+%7C+Infrastructure+%7C+Security"
-  alt="Typing SVG"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=900&lines=No+likes.+No+comments.+No+follower+counts.;Every+interaction+is+a+commitment." alt="Typing SVG"/>
 
 </div>
 
@@ -74,17 +71,6 @@ Plus a **contract-first service architecture** built to scale from solo founder 
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=skdanisht&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
-<br/>
-
-## <img src="https://api.iconify.design/tabler:mail.svg?color=%2358a6ff&height=22" valign="middle" /> Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-linkedin.com/in/skdanisht-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skdanisht/)
-[![Email](https://img.shields.io/badge/-skdanisht@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:skdanisht@gmail.com)
-
 </div>
 
 <br/>
