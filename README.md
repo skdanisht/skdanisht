@@ -20,7 +20,7 @@
 
 <br/>
 
-## 🧭 What I'm Building
+## <img src="https://api.iconify.design/tabler:compass.svg?color=%2358a6ff&height=22" valign="middle" /> What I'm Building
 
 > **Inventza** — a platform where the only currency is a name put on a promise.
 > No likes, no comments, no follower counts. Every interaction is a commitment,
@@ -34,13 +34,13 @@ I own product architecture, engineering, infrastructure, and security. I designe
 <tr>
 <td width="50%" valign="top">
 
-### 📌 Evidence Pinning
+### <img src="https://api.iconify.design/tabler:pin.svg?color=%2358a6ff&height=20" valign="middle" /> Evidence Pinning
 The platform's core mechanic — proof, tied to an exact point in someone's actual work. Not a reaction. Not a vibe. A pin.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔁 Offer → Commitment → Outcome
+### <img src="https://api.iconify.design/tabler:refresh.svg?color=%2358a6ff&height=20" valign="middle" /> Offer → Commitment → Outcome
 The lifecycle that replaces engagement metrics with real accountability, end to end.
 
 </td>
@@ -51,7 +51,7 @@ Plus a **contract-first service architecture** built to scale from solo founder 
 
 <br/>
 
-## ⚙️ Focus
+## <img src="https://api.iconify.design/tabler:settings.svg?color=%2358a6ff&height=22" valign="middle" /> Focus
 
 <div align="center">
 
@@ -65,7 +65,7 @@ Plus a **contract-first service architecture** built to scale from solo founder 
 
 <br/>
 
-## 📊 GitHub, Live
+## <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%2358a6ff&height=22" valign="middle" /> GitHub, Live
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=skdanisht&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff" />
@@ -78,7 +78,7 @@ Plus a **contract-first service architecture** built to scale from solo founder 
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### <img src="https://api.iconify.design/tabler:activity.svg?color=%2358a6ff&height=20" valign="middle" /> Contribution Snake
 
 <img src="https://raw.githubusercontent.com/skdanisht/skdanisht/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
@@ -94,7 +94,7 @@ Plus a **contract-first service architecture** built to scale from solo founder 
 
 <br/>
 
-## 🏆 Trophy Case
+## <img src="https://api.iconify.design/tabler:trophy.svg?color=%2358a6ff&height=22" valign="middle" /> Trophy Case
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=skdanisht&theme=tokyonight&no-frame=true&row=1&column=6" />
@@ -102,7 +102,7 @@ Plus a **contract-first service architecture** built to scale from solo founder 
 
 <br/>
 
-## 📬 Contact
+## <img src="https://api.iconify.design/tabler:mail.svg?color=%2358a6ff&height=22" valign="middle" /> Contact
 
 <div align="center">
 
