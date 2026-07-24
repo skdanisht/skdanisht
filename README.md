@@ -55,8 +55,7 @@ Plus a **contract-first service architecture** built to scale from solo founder 
 ![Architecture](https://img.shields.io/badge/Product_%26_System_Architecture-2C5364?style=for-the-badge)
 ![Frontend](https://img.shields.io/badge/Frontend_Engineering-0f2027?style=for-the-badge)
 ![Backend](https://img.shields.io/badge/Backend_Engineering-2C5364?style=for-the-badge)
-![Infra](https://img.shields.io/badge/Infrastructure_%26_Security-0f2027?style=for-the-badge)
-![API](https://img.shields.io/badge/Contract--First_API_Design-2C5364?style=for-the-badge)
+![Infrastructure](https://img.shields.io/badge/Infrastructure_%26_Security-0f2027?style=for-the-badge)
 
 </div>
 
