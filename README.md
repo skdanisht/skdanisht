@@ -78,14 +78,6 @@ Plus a **contract-first service architecture** built to scale from solo founder 
 
 <br/>
 
-## <img src="https://api.iconify.design/tabler:trophy.svg?color=%2358a6ff&height=22" valign="middle" /> Trophy Case
-
-<div align="center">
-<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=skdanisht&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
-<br/>
-
 ## <img src="https://api.iconify.design/tabler:mail.svg?color=%2358a6ff&height=22" valign="middle" /> Contact
 
 <div align="center">
