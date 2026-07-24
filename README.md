@@ -1,24 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sk%20Danish%20Tanvir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Co-Founder%20and%20CTO,%20Inventza&descAlignY=58&descSize=18" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sk%20Danish%20Tanvir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Co-Founder%20and%20CTO,%20Inventza&descAlignY=58&descSize=18" />
 
-<br/>
-
-<p align="center">
+<p>
   <a href="mailto:skdanisht@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/ffffff" width="34">
+    <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://linkedin.com/in/skdanisht">
-    <img src="https://cdn.simpleicons.org/linkedin/ffffff" width="34">
+    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=2C5364&center=true&vCenter=true&width=1000&lines=Building+the+infrastructure+for+verifiable+contribution;No+likes.+No+comments.+No+follower+counts.;Every+interaction+is+a+commitment.;Product+Architecture+%7C+Infrastructure+%7C+Security" alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=6B8AFD&center=true&vCenter=true&width=900&lines=Building+the+infrastructure+for+verifiable+contribution;No+likes.+No+comments.+No+follower+counts.;Every+interaction+is+a+commitment.;Product+Architecture+•+Infrastructure+•+Security"
+/>
 
 </div>
 
