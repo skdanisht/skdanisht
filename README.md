@@ -4,13 +4,17 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/skdanisht/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p align="center">
+
 <a href="mailto:skdanisht@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<img src="https://img.shields.io/badge/Status-Building%20Inventza-2c5364?style=for-the-badge" />
+
+<a href="https://www.linkedin.com/in/skdanisht">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+
+</p>
 
 <br/><br/>
 
