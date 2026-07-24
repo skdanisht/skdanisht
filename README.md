@@ -2,10 +2,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sk%20Danish%20Tanvir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Co-Founder%20and%20CTO,%20Inventza&descAlignY=58&descSize=18" />
 
-<p>
+<p align="center">
   <a href="mailto:skdanisht@gmail.com">
     <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a>&nbsp;
   <a href="https://linkedin.com/in/skdanisht">
     <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
