@@ -1,0 +1,33 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#0A0D12"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <!-- kicker -->
+  <text x="100" y="76" font-family="-apple-system, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif"
+        font-size="13" font-weight="600" letter-spacing="3" fill="#58A6FF">INVENTZA</text>
+
+  <!-- name -->
+  <text x="98" y="150" font-family="-apple-system, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif"
+        font-size="52" font-weight="700" letter-spacing="0.3" fill="#F0F6FC">Sk Danish Tanvir</text>
+
+  <!-- role -->
+  <text x="100" y="188" font-family="-apple-system, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif"
+        font-size="20" font-weight="400" fill="#7D8590">Co-Founder &amp; CTO</text>
+
+  <!-- accent underline -->
+  <rect x="100" y="208" width="56" height="3" rx="1.5" fill="#58A6FF"/>
+
+  <!-- tagline -->
+  <text x="100" y="245" font-family="-apple-system, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif"
+        font-size="15.5" fill="#7D8590">Building the infrastructure for verifiable contribution.</text>
+
+  <!-- live link, bottom right -->
+  <text x="1100" y="272" text-anchor="end" font-family="'SF Mono', 'Fira Code', ui-monospace, monospace"
+        font-size="14" fill="#58A6FF">inventza.vercel.app</text>
+</svg>
